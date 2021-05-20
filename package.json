@@ -1,7 +1,7 @@
 {
   "name": "plywood-druid-requester",
-  "version": "2.6.10",
-  "description": "Druid requester for Plywood (within node)",
+  "version": "2.6.11",
+  "description": "WhyLabs Druid requester for Node",
   "keywords": [
     "druid",
     "requester"
