@@ -18,9 +18,7 @@
   "main": "lib/druidRequester.js",
   "typings": "lib/druidRequester.d.ts",
   "files": [
-    "src/",
-    "build/",
-    "typings/"
+    "lib/"
   ],
   "scripts": {
     "prepare": "tdi -q",
