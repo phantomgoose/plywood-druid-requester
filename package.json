@@ -15,8 +15,8 @@
     "type": "git",
     "url": "http://github.com/implydata/plywood-druid-requester.git"
   },
-  "main": "build/druidRequester.js",
-  "typings": "build/druidRequester.d.ts",
+  "main": "lib/druidRequester.js",
+  "typings": "lib/druidRequester.d.ts",
   "files": [
     "src/",
     "build/",
