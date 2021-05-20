@@ -23,6 +23,7 @@
     "typings/"
   ],
   "scripts": {
+    "postinstall": "tsc --outDir ./build",
     "prepare": "tdi -q",
     "compile": "tsc",
     "watch": "tsc --watch",
