@@ -18,6 +18,7 @@
   "main": "build/druidRequester.js",
   "typings": "build/druidRequester.d.ts",
   "files": [
+    "src/",
     "build/",
     "typings/"
   ],
