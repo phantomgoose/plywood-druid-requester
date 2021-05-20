@@ -1,6 +1,6 @@
 {
   "name": "plywood-druid-requester",
-  "version": "2.6.12",
+  "version": "2.6.13",
   "description": "WhyLabs Druid requester for Node",
   "keywords": [
     "druid",
@@ -21,7 +21,6 @@
     "lib/"
   ],
   "scripts": {
-    "prepare": "tdi -q",
     "compile": "tsc --outDir ./lib",
     "watch": "tsc --watch",
     "pretest": "tsc",
